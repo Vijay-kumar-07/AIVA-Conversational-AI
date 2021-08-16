@@ -1,4 +1,4 @@
-# ineuron_megatron
+# Conversational AI
 
 ##Install requirements.txt
 
